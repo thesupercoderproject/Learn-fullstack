@@ -36,3 +36,5 @@ It covers most concepts to build an app - from relationships in the database, to
   - [Precourse - Before you begin](/tasks/precourse/README.md)
   
   - [Week One Task](/tasks/week-1/README.md)
+
+  - [Week Two Task](/tasks/week-2/README.md)
