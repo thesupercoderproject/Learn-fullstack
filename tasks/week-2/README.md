@@ -17,6 +17,8 @@ Authentication with PassportJS | [Link to this resource](https://www.youtube.com
 JSON Web Tokens | [Link to this resource](https://www.youtube.com/watch?v=7nafaH9SddU)
 PassportJS with JWT | [Link to this resource](https://www.youtube.com/watch?v=f4F0brwbYKg)
 Sequelize | [Link to this resource](https://www.youtube.com/playlist?list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR)
+Node JS and Postgre Recipe App | [Link to youtube playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
+PERN Crash Coourse | [Link to this resource](https://www.youtube.com/watch?v=ldYcgPKEZC8)
 
 
 ## Important
