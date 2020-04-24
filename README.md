@@ -4,9 +4,9 @@
 
 - This program aims to help ourselves make a good use of our free time during this pandemic period. We pray to Allah (subhanahu wa ta'ala) to end it soonest and ease all our Affairs.
 
- During the course of this program We're working on a server monitoring software. 
+During the course of this program We're working on a server monitoring software.
 
-*The app will:**
+\*The app will:\*\*
 
 - Let users sign up and login.
 - When the user logs in, he is navigated to his dashboard.
@@ -26,15 +26,16 @@
 - Docker
 - Kubernetes
 
-
 ### Why server monitoring?
 
 It covers most concepts to build an app - from relationships in the database, to workers, to third party API integration and more. You can finish the app fairly quickly and get a good understanding of all the concepts from `Web Development`
 
-
 - Course
+
   - [Precourse - Before you begin](/tasks/precourse/README.md)
-  
+
   - [Week One Task](/tasks/week-1/README.md)
 
   - [Week Two Task](/tasks/week-2/README.md)
+
+  - [Week Three Task](/tasks/week-3/README.md)
