@@ -43,3 +43,5 @@ It covers most concepts to build an app - from relationships in the database, to
   - [Week Four Task](/tasks/week-4/README.md)
 
   - [Week Five Task](/tasks/week-5/README.md)
+
+  - [Week Six Task](/task/week-6/README.md)
