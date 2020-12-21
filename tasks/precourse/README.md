@@ -11,8 +11,8 @@
 
 Topic | Resource
 ------------ | -------------
-HTML and CSS | [Link to this resource](https://www.youtube.com/watch?v=yTHTo28hwTQ&list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F)
-JavaScript for beginners | [Link to this resource](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PL46F0A159EC02DF82)
+HTML and CSS | [Link to this resource](https://www.youtube.com/watch?v=mU6anWqZJcc)
+JavaScript for beginners | [Link to this resource](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 Serverside Programming with NodeJS | [Link to this resource](https://www.youtube.com/watch?v=G8uL0lFFoN0)
 Algorithms | [Link to this resource](https://www.coursera.org/learn/algorithms-part1)
 PostgreSQL | [Link to this resource](https://www.youtube.com/watch?v=js84deD7pzk)
