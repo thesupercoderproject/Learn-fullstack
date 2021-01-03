@@ -1,9 +1,6 @@
 # The Super Coder Project - Learn-and- build-fullstack- Application
 
 - Welcome Onboard guys,
-
-- This program aims to help ourselves make a good use of our free time during this pandemic period. We pray to Allah (subhanahu wa ta'ala) to end it soonest and ease all our Affairs.
-
 During the course of this program We're working on a server monitoring software.
 
 \*The app will:\*\*
